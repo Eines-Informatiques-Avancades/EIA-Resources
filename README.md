@@ -2,9 +2,14 @@
 
 Here you can find the slides for the third part of the course
 
-- Version control with `git` and `github`
-- Introduction to OpenMP
-- Introduction to Machine Learning
-- High-level low-level programming integration
+- Outline of the course [Outline.pdf]
+- Version control with `git` and `github` [Git_v2.pdf]
+- Introduction to OpenMP [Open_MP_v2.pdf]
+- Introduction to Machine Learning [Machine_Learning_v2.pdf]
+- High-level low-level programming integration [HighLevel_LowLevel_v2.pdf]
 
-Plus
+Plus two cheat-sheets for `git` and `github`
+
+Enjoy.
+
+
