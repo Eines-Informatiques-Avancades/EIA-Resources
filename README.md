@@ -2,7 +2,8 @@
 
 Here you can find the slides for the third part of the course
 
-- Outline of the course [1- Outline.pdf]
+- Outline of the course [0 - Outline.pdf]
+- Best preactices [1 - Best_Practices.pdf]
 - Version control with `git` and `github` [2 - Git_v2.pdf]
 - Introduction to OpenMP [3 - Open_MP_v2.pdf]
 - Introduction to Machine Learning [4 - Machine_Learning_v2.pdf]
